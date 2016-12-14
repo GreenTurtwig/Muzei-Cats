@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Muzei Cats</string>
+    <string name="source_title">Muzei Cats</string>
+    <string name="source_description">Gets cat images from 500px</string>
+</resources>
